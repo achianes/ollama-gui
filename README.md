@@ -21,12 +21,6 @@ Ollama GUI Improved builds upon the original project by chyok, offering a refine
   - Enhanced error handling and logging mechanisms.
   - Support for dynamic theming with `ttkthemes`.
 
-## Project Structure
-
-ollama-gui-improved/  ├── README.md 
-                      ├── LICENSE 
-                      ├── requirements.txt
-                      ├── ollama_gui.py 
 
 ## Installation
 
