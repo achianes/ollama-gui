@@ -1,0 +1,7 @@
+ttkthemes
+Pillow
+markdown
+pygments
+tkinterweb[javascript]
+pdfkit
+pythonmonkey
